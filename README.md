@@ -1,10 +1,18 @@
-<<<<<<< HEAD
 # ModForgeWeb
-Web-based modding toolkit for Kingdom Come: Deliverance II
-=======
-# Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Web-based modding toolkit for **Kingdom Come: Deliverance II**.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
->>>>>>> 21a5e3c (Initial ModForgeWeb Vuew setup with DDS placeholder viewer)
+## Goals
+- Client-side modding tool (no uploads required)
+- Browse KCD2 game & mod files
+- Decode and display DDS textures
+- Create and package mods directly in the browser
+
+## Tech Stack
+- Vue 3 + TypeScript
+- Vite
+- File System Access API
+- Web Workers + WebAssembly (planned)
+
+## Status
+🚧 Early prototype – DDS decoding proof of concept
