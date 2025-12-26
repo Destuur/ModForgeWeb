@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\modforge-web\packages\dds-converter-wasm\target\wasm32-unknown-unknown\release\dds_converter_wasm.wasm: C:\Users\User\source\repos\modforge-web\packages\dds-converter-wasm\src\lib.rs
